@@ -10,7 +10,7 @@
           "nickname": "안녕",
           "likeCount": 1,
           "content": "내용이에요",
-          "insert_dt": “YYYY-MM-DD HH-MM-SS”
+          "insert_dt": "YYY-MM-DD HH-MM-SS"
         },{
           "postId" : 2,
           "image": "https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6"
@@ -18,7 +18,7 @@
           "nickname": "안녕",
           "likeCount": 1,
           "content": "내용이에요",
-          "insert_dt": “YYYY-MM-DD HH-MM-SS”
+          "insert_dt": "YYY-MM-DD HH-MM-SS"
         },{
           "postId" : 3,
           "image": "https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6"
@@ -26,7 +26,7 @@
           "nickname": "안녕",
           "likeCount": 1,
           "content": "내용이에요",
-          "insert_dt": “YYYY-MM-DD HH-MM-SS”
+          "insert_dt": "YYY-MM-DD HH-MM-SS"
         },{
           "postId" : 4,
           "image": "https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6"
@@ -34,7 +34,7 @@
           "nickname": "안녕",
           "likeCount": 1,
           "content": "내용이에요",
-          "insert_dt": “YYYY-MM-DD HH-MM-SS”
+          "insert_dt": "YYY-MM-DD HH-MM-SS"
         },
         
       ],
@@ -43,37 +43,37 @@
           "postId": 5,
           "nickname": "안녕",
           "title": "제목이에요",
-          "img": “https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6”,
+          "image": "https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6",
           "likeCount": 1,
-          "insert_dt": “YYYY-MM-DD HH-MM-SS”
+          "insert_dt": "YYY-MM-DD HH-MM-SS"
         },{
           "postId": 6,
           "nickname": "안녕",
           "title": "제목이에요",
-          "img": “https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6”,
+          "image": "https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6",
           "likeCount": 1,
-          "insert_dt": “YYYY-MM-DD HH-MM-SS”
+          "insert_dt": "YYY-MM-DD HH-MM-SS"
         },{
           "postId": 7,
           "nickname": "안녕",
           "title": "제목이에요",
-          "img": “https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6”,
+          "image": "https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6",
           "likeCount": 1,
-          "insert_dt": “YYYY-MM-DD HH-MM-SS”
+          "insert_dt": "YYY-MM-DD HH-MM-SS"
         },{
           "postId": 8,
           "nickname": "안녕",
           "title": "제목이에요",
-          "img": “https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6”,
+          "image": "https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6",
           "likeCount": 1,
-          "insert_dt": “YYYY-MM-DD HH-MM-SS”
+          "insert_dt": "YYY-MM-DD HH-MM-SS"
         },{
           "postId": 9,
           "nickname": "안녕",
           "title": "제목이에요",
-          "img": “https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6”,
+          "image": "https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6",
           "likeCount": 1,
-          "insert_dt": “YYYY-MM-DD HH-MM-SS”
+          "insert_dt": "YYY-MM-DD HH-MM-SS"
         }
         
      ]
