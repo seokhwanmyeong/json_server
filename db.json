@@ -5,5 +5,85 @@
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 }
     ],
-    "profile": { "name": "typicode" }
+    "profile": { "name": "typicode" },
+    "bestPostList": [
+        {
+          postId: 1,
+          image: imgurl
+          title: "제목이에요",
+          nickname: 안녕,
+          likeCount: 1,
+          content: "내용이에요"
+          insert_dt: “YYYY-MM-DD HH-MM-SS”
+        },
+        {
+          postId: 2,
+          image: imgurl
+          title: "제목이에요",
+          nickname: 안녕
+          likeCount: 2
+          content: "내용이에요"
+          insert_dt: “YYYY-MM-DD HH-MM-SS”
+        },
+        {
+          postId: 3,
+          image: imgurl
+          title: "제목이에요",
+          nickname: 안녕
+          likeCount: 2
+          content: "내용이에요"
+          insert_dt: “YYYY-MM-DD HH-MM-SS”
+        },
+        {
+          postId: 4,
+          image: imgurl
+          title: "제목이에요",
+          nickname: 안녕
+          likeCount: 2
+          content: "내용이에요"
+          insert_dt: “YYYY-MM-DD HH-MM-SS”
+        }
+      ],
+    "postList": [
+        {
+          postId: 1,
+          nickname: 안녕
+          title: "제목이에요",
+          img: “url”
+          likeCount: 1
+          insert_dt: “YYYY-MM-DD HH-MM-SS”
+        },
+        {
+          postId: 2,
+          nickname: 안녕
+          title: "제목이에요",
+          img: “url”
+          likeCount: 2
+          insert_dt: “YYYY-MM-DD HH-MM-SS”
+        },
+        {
+          postId: 3,
+          nickname: 안녕
+          title: "제목이에요",
+          img: “url”
+          likeCount: 2
+          insert_dt: “YYYY-MM-DD HH-MM-SS”
+        },
+        {
+          postId: 4,
+          nickname: 안녕
+          title: "제목이에요",
+          img: “url”
+          likeCount: 2
+          insert_dt: “YYYY-MM-DD HH-MM-SS”
+        },
+        {
+          postId: 5,
+          nickname: 안녕
+          title: "제목이에요",
+          img: “url”
+          likeCount: 2
+          insert_dt: “YYYY-MM-DD HH-MM-SS”
+        },
+     ]
 }
