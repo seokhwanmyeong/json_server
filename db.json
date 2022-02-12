@@ -5,7 +5,7 @@
     "bestPostList": [
         {
           "postId" : 1,
-          "image": "https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6"
+          "image": "https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6",
           "title": "제목이에요",
           "nickname": "안녕",
           "likeCount": 1,
