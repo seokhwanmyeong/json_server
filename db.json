@@ -2,84 +2,70 @@
     "posts": [
       { "id": 1, "title": "json-server", "author": "typicode" }
     ],
-    "bestPostList": [
+    "rate": [
         {
-          "postId" : 1,
-          "image": "https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6",
-          "title": "제목이에요",
-          "nickname": "안녕",
-          "likeCount": 1,
-          "content": "내용이에요",
-          "insert_dt": "YYY-MM-DD HH-MM-SS"
+          "date": "2022-11-21",
+          "name": "test",
+          "age": 123,
+          "address": "testsetsetsetsetsetsetsetstsetset",
+          "gender": "man",
         },
         {
-          "postId" : 2,
-          "image": "https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6",
-          "title": "제목이에요",
-          "nickname": "안녕",
-          "likeCount": 1,
-          "content": "내용이에요",
-          "insert_dt": "YYY-MM-DD HH-MM-SS"
+          "date": "2022-11-22",
+          "name": "test",
+          "age": 123,
+          "address": "testsetsetsetsetsetsetsetstsetset",
+          "gender": "man",
         },
         {
-          "postId" : 3,
-          "image": "https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6",
-          "title": "제목이에요",
-          "nickname": "안녕",
-          "likeCount": 1,
-          "content": "내용이에요",
-          "insert_dt": "YYY-MM-DD HH-MM-SS"
+          "date": "2022-11-23",
+          "name": "test",
+          "age": 123,
+          "address": "testsetsetsetsetsetsetsetstsetset",
+          "gender": "woman",
         },
         {
-          "postId" : 4,
-          "image": "https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6",
-          "title": "제목이에요",
-          "nickname": "안녕",
-          "likeCount": 1,
-          "content": "내용이에요",
-          "insert_dt": "YYY-MM-DD HH-MM-SS"
-        }
+          "date": "2022-11-24",
+          "name": "test",
+          "age": 123,
+          "address": "testsetsetsetsetsetsetsetstsetset",
+          "gender": "man",
+        },
+        {
+          "date": "2022-11-24",
+          "name": "test",
+          "age": 123,
+          "address": "testsetsetsetsetsetsetsetstsetset",
+          "gender": "woman",
+        },
+        {
+          "date": "2022-11-24",
+          "name": "test",
+          "age": 123,
+          "address": "testsetsetsetsetsetsetsetstsetset",
+          "gender": "man",
+        },
       ],
-    "postList": [
+    "benefit": [
         {
-          "postId": 5,
-          "nickname": "안녕",
-          "title": "제목이에요",
-          "image": "https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6",
-          "likeCount": 1,
-          "insert_dt": "YYY-MM-DD HH-MM-SS"
+          "date": "2022-01",
+          "benefit": 50000000,
+          "blockCode": "testsetsetsetsetsetsetsetstsetset",
+          "gender": {
+            "man": 25000000,
+            "woman": 25000000
+          },
+          "age": {
+            "10th": 5000000,
+            "20th": 10000000,
+            "30th": 20000000,
+            "40th": 10000000,
+            "50th": 4000000,
+            "60th": 1000000,
+          }
+          "average": {
+        
+          }
         },
-        {
-          "postId": 6,
-          "nickname": "안녕",
-          "title": "제목이에요",
-          "image": "https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6",
-          "likeCount": 1,
-          "insert_dt": "YYY-MM-DD HH-MM-SS"
-        },
-        {
-          "postId": 7,
-          "nickname": "안녕",
-          "title": "제목이에요",
-          "image": "https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6",
-          "likeCount": 1,
-          "insert_dt": "YYY-MM-DD HH-MM-SS"
-        },
-        {
-          "postId": 8,
-          "nickname": "안녕",
-          "title": "제목이에요",
-          "image": "https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6",
-          "likeCount": 1,
-          "insert_dt": "YYY-MM-DD HH-MM-SS"
-        },
-        {
-          "postId": 9,
-          "nickname": "안녕",
-          "title": "제목이에요",
-          "image": "https://firebasestorage.googleapis.com/v0/b/project-week3-9a157.appspot.com/o/images%2Fpicture.svg?alt=media&token=45418417-5864-4e67-a034-9f790ceab4e6",
-          "likeCount": 1,
-          "insert_dt": "YYY-MM-DD HH-MM-SS"
-        }
-     ]
+    ],
 }
